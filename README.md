@@ -1,2 +1,4 @@
 # marketshn_poo_IIIperiodo2022
-URL de carpeta en la nube con informe final y los demas archivos:
+Abraham Durón - 20131001422. 
+Enlace de Entrega final Proyecto POO: 
+https://mega.nz/folder/yEI3XYBJ#1bqvAA73bqHOF7NWR7QRLA
