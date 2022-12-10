@@ -1,0 +1,31 @@
+
+.bg-light {
+    background-color: #f2441d!important;
+}
+
+#Land_t1 {
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#Land_t5  {
+    margin-top: 20px;
+    color: #36413a;
+}
+
+.btn-toolbar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-content: center;
+}
+
+#land_bn_ri {
+    width: 120px;
+}
+
+.land_img {
+    width: 300px;
+    margin-top: 20px;
+}

@@ -1,0 +1,27 @@
+
+
+.btn-toolbar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-content: center;
+}
+
+.land_bn_ri {
+    width: 120px;
+    background-color: #f27830;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #F2441D !important;
+    border-color: #090909;
+}
+
+.hr_app {
+    background-color: #F2441D !important;
+    opacity: 1;
+    margin:auto;
+    width: 50%
+}

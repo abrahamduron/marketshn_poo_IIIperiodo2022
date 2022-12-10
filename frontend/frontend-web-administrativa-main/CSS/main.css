@@ -1,0 +1,72 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #36413a;
+}
+
+/*header {
+  color: white;
+  background-color: #0086CD;
+}*/
+
+footer {
+  color: white;
+  background-color: #1A1A1A;
+  width: 100%;
+  height: 81px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.container {
+  padding:12px;
+}
+
+.bg-light {
+  background-color: #f2441d!important;
+}
+
+#Land_t1 {
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+#Land_t5  {
+  margin-top: 20px;
+  color: #36413a;
+}
+
+.btn-toolbar {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-content: center;
+}
+
+#land_bn_ri {
+  width: 120px;
+}
+
+.land_img {
+  width: 300px;
+  margin-top: 20px;
+}
+
+#loginAdmin {
+  width: 600px;
+  margin: 40px auto 40px auto;
+  border: 1px solid grey;
+  border-radius: 10px;
+  background: linear-gradient(#F2441D, #F2B807, #F27830, #f2441d );
+  color: white;
+
+}
+
+#btnENTRAR {
+  background-color: white;
+  color: black;
+}
